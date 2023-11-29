@@ -11,10 +11,10 @@ Optimize CSS media queries by combining them together and injecting at end of ba
 
 ```bash
 # npm
-$ npm install optimize-css-mq --dev
+$ npm install @xmetal/optimize-css-mq --dev
 
 # yarn
-$ yarn add optimize-css-mq -D
+$ yarn add @xmetal/optimize-css-mq -D
 ```
 
 ## Example
