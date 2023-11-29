@@ -1,10 +1,10 @@
 {
-  "name": "optimize-css-mq",
-  "version": "1.1.1",
+  "name": "@xmetal/optimize-css-mq",
+  "version": "1.1.2",
   "description": "Optimize CSS media queries ",
-  "homepage": "https://github.com/shobhitsharma/optimize-css-mq",
+  "homepage": "https://github.com/Xmetalfanx/optimize-css-mq",
   "bugs": {
-    "url": "https://github.com/shobhitsharma/optimize-css-mq/issues"
+    "url": "https://github.com/Xmetalfanx/optimize-css-mq/issues"
   },
   "keywords": [
     "optimize-css-mq",
@@ -15,7 +15,7 @@
     "webpack-plugin"
   ],
   "license": "MIT",
-  "author": "Shobhit Sharma",
+  "author": "Xmetal",
   "files": [
     "index.js",
     "webpack/index.js"
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/shobhitsharma/optimize-css-mq.git"
+    "url": "git://github.com/Xmetalfanx/optimize-css-mq.git"
   },
   "scripts": {
     "test": "eslint index.js test/index.js && tape \"test/**/*.js\""

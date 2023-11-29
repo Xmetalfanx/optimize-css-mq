@@ -1,3 +1,8 @@
+- fork containing some npm security update/fixes that have been sitting as PRs on the original repo un-merged or updated.
+
+- if the original repo ever gets updated or maintained again, I think users should use THAT instead
+---
+
 # optimize-css-mq [![npm version](https://badge.fury.io/js/optimize-css-mq.svg)](https://badge.fury.io/js/optimize-css-mq)
 
 Optimize CSS media queries by combining them together and injecting at end of base styles.
